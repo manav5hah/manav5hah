@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Python and Javascript
 - 🌱 I’m currently learning Python Frameworks
-- 💬 Ask me about JavaScript Frameworks
+- 💬 Ask me about JavaScript Frameworks and Python
 - 📫 How to reach me: shahmanav1308@gmail.com
 - ⚡ Fun fact: NaN === NaN returns false in JS
 
