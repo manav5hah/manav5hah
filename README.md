@@ -70,7 +70,7 @@
 
   
 
-<<p align="center">
+<p align="center">
 <a href="https://www.linkedin.com/in/manavshah13"><img  src="https://img.shields.io/badge/-Manav%20Shah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a style="display:inline-block;margin:5px;"  href="https://twitter.com/Manav5hah99"><img  src="https://img.shields.io/badge/-manav5hah99-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
