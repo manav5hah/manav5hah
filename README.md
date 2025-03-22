@@ -12,7 +12,10 @@
 
 - 📫 How to reach me: shahmanav1308@gmail.com
 
-- ⚡ Fun fact: NaN === NaN returns false in JS
+- ⚡ Fun fact:
+  '11' + 1 = '111'
+  '11' - 1 = 10
+  
 
   
   
